@@ -1,2 +1,5 @@
 Hello guys this is Harshit
 I am from india
+
+iam currently practicing merging using Branch
+Merge a Pull Request
